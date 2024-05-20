@@ -1,4 +1,15 @@
 /my_env/
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+
 ### VisualStudioCode template
 .vscode/*
 !.vscode/settings.json
@@ -106,3 +117,8 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+/.idea/rest-api-flask-python.iml
+/.idea/vcs.xml
+/.idea/misc.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/modules.xml
